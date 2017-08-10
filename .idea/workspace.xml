@@ -13,31 +13,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0172bd7-2af1-4251-8c69-62284ffb234a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationClient_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationServer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationServer_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationServer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_accelerationServer_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_accelerationClient_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_accelerationClient_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_accelerationClient_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_accelerationClient_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/bundles/debug/classes.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/bundles/default/classes.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/bundles/release/classes.jar" />
@@ -196,227 +171,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/tmp/expandedArchives/rapidCommon.jar_6nosixgk191l296atwakqxew6/eu/project/rapid/common/RapidMessages.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/tmp/expandedArchives/rapidCommon.jar_6nosixgk191l296atwakqxew6/eu/project/rapid/common/RapidUtils$1.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/tmp/expandedArchives/rapidCommon.jar_6nosixgk191l296atwakqxew6/eu/project/rapid/common/RapidUtils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$ClientListenerClear.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$ClientListenerSSL.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$D2DBroadcastThread$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$D2DBroadcastThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer$RegistrationManager.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AccelerationServerAutoStarter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AppHandler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AppHandler$Executer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AppHandler$VMHelperThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/AppHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/DynamicObjectInputStream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/NetworkProfilerServer$ClientThread$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/NetworkProfilerServer$ClientThread.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/NetworkProfilerServer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/R$attr.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/R$drawable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/R$layout.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/R$string.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/R.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/classes/debug/eu/project/rapid/as/RapidServerActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/dex/debug/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/AccelerationServer/accelerationClient/unspecified/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/compileDebugAndroidTestAidl/dependency.store" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/packageDebug/zip-cache/+JrP2c5BTbt8Bp6Nmtwe8xCmD1k=" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/packageDebug/zip-cache/XiEpjWkTWgjJeNg1LdQ788hWWgo=" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/04/F896E481E447BA62ECCF6A0EA152E09FD0CC7D" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/0B/91228690B6A2CA3A7E0E03BF14C03F2B7ABDA3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/11/ED38B216E58920F3B3838067CC29E24B5CB1B8" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/17/B0AAC45C52771A828F82354B1040ED35EB1697" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/19/200EE6A47050CA83391AAD8D5BCA2910FDAF48" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/1B/03802DB341A33BF0F39F21718882262B726672" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/1D/075638EF2B4BCB641489D08FAE4BA40EC46171" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/1D/EF2DC15B62F8EC0A80E2CE5ECAEA6934A3AB83" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/25/2F38CE5F1C53EB24AE0EC7ABE4B8A37EC007E2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/27/417BD62D5B7B80E9545E910800F8B0C2A4FBCC" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/2A/170AD45BD763AD3BEBF4536EB8F3CF3F11443B" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/35/D8CCE1A61F12FF6283A7210C2FB6CB5AE08FDA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/36/4423F195DC816AEE25F5B354A6924E98348989" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/3C/2036905C35372845B80BB05166D112BAC93127" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/40/146768191A05F136AABA40A77310B9EFB763F4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/41/0C798ECD3D25133C366246BA17805D6F96E3CA" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/42/8297C03377F9521CA919F8AC9542453CA2BAAB" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/46/85C04AB6F475C9DA38D69DBD4467AB81DCA358" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/48/61A58B7A1EF7CD58B9E55FB5C70A736EDE668D" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/48/B091045996265E85D76A983ABED60AEF10E305" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/58/3675573C6E40C12F476393363EEECA1A29C7CF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/58/F3387F1E38189A0F1FA3D297E29986C5896DB1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/59/760624B78A1C0D3A55E2776BBFD0D8A994792B" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/61/54CBCCDD000AB39808762C593B34B181CD15F9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/7D/69EB8BAC3213CEA77FAFD3275404116AF93206" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/7F/BD70374EAE3E9688FB3F1580D8AF64247B49E0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/82/A7E2BEABC675EF2A2548F4BC33C205C098484A" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/85/9F2A61C3084658CE3058504552287EE2632ED9" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/8A/99CBE036960E010C3C17A9FAC3638DDA82E23F" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/8B/369A6DD49BD5BCB5C3FC06BB061D87F1FD1572" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/91/61B2B28A2D733864B6EC2C004E19804D75D783" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/96/DD571E77FDCF0067770C9C7C1C7E93D4B85B2B" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/99/44D9BFA4D215E9965A703C4D2BFB836AB24D9D" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/9D/B26C509CAC64FD5DF18BE344C494FAA4DBDA9D" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/A4/D3941A3D5BF612F06E86FB9957907DE7EAD78F" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/A5/27E8CD7C791AA75CC55CFCC573260B2DB18C05" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/AA/A032F74901E4362FA91435650D1EBDD1B9697B" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/AB/D0A067250A9B9220F8D0F4512B65C02EAE9389" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/BD/F809F427940EDC7335FB8C283C246100F5B796" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/BE/703E5FB5BEA1C2DC8B24870C126F2ACD4B84F0" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/C1/EFA5B7AFD7550314040CBBCDC548EC23CC3DF4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/D1/6F99AB10E112A8F2A2B5029006428BCB4AB57D" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/DE/3B62EA61A3E3786181485093E19E4F798EF45B" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/EC/05B83136D9C2A33A79170FBDFE8DB0D363B4FB" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/F3/EC5BE9AA63889123C02C0F1D5AF5F757529F14" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/FF/B0C0373B161A1F562380A33E9039E1F57433F5" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/FF/C9785A8364216305576E3175AB53CE25969732" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/jill/debug/packaged/classes-2d2f81e3ed24ca5bf3cb82709c4bda3ed87fa3ec.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/jill/debug/packaged/core-1.51.0.0-2dd6e6b06720d524afc9e7a1a3a2e4952d7b1194.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/jill/debug/packaged/prov-1.51.0.0-ccf986fd9b9698aba780d5df8cb467299ef40f68.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/jill/debug/packaged/rapidCommon-2a2e5bcbfa6c31d7fdbf896a88c49afe9e16fe9d.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/jill/debug/runtime/android-4390669518f97a7ca415da5b6f063976157ee883.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/multi-dex/debug/componentClasses.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/packaged/debug/classes.zip" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/pre-dexed/debug/AccelerationServer-accelerationClient-unspecified_2d2f81e3ed24ca5bf3cb82709c4bda3ed87fa3ec.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/pre-dexed/debug/core-1.51.0.0_2dd6e6b06720d524afc9e7a1a3a2e4952d7b1194.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/pre-dexed/debug/debug_c76c6217f7f5cb8461f85f933852c1dadf7c354d.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/pre-dexed/debug/prov-1.51.0.0_ccf986fd9b9698aba780d5df8cb467299ef40f68.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/drawable-ldpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/drawable-mdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/drawable/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/resources-debug.ap_" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/jack/debug/folders/1000/1f/main/classes.dex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-f6f49c13ddb9f065b29b4fb665b52593564dae12.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/core-1.51.0.0-2dd6e6b06720d524afc9e7a1a3a2e4952d7b1194.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/prov-1.51.0.0-ccf986fd9b9698aba780d5df8cb467299ef40f68.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rapidCommon-2a2e5bcbfa6c31d7fdbf896a88c49afe9e16fe9d.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-5edbb08105d217139d6f22a8c47de70feddedcad.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-f13719e1f7eea1f561c8ff45ae990c59d168e895.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/outputs/apk/accelerationServer-debug-unaligned.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/outputs/apk/accelerationServer-debug.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$ConnectionRepair$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$ConnectionRepair.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$D2DSetReader.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$DfeCallback.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$InitialNetworkTasks.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$SSLHandshakeCompletedListener.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE$TaskRunner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DFE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/DSE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/QoS.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/RapidSettingsActivity.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/Remote.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/Remoteable.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/ResultContainer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/D2DClientService$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/D2DClientService$D2DSetWriter.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/D2DClientService.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/D2DMessage$MsgType.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/D2DMessage.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/d2d/PhoneSpecs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/db/DBCache.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/db/DBEntry.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/DeviceProfiler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/DeviceProfiler$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/DeviceProfiler$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/DeviceProfiler$SysClassBattery.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/DeviceProfiler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/LocationProfiler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/LogRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkBWRecord.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$5.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$DownloadRateMeasurer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$RTTMeasurer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler$UploadRateMeasurer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/NetworkProfiler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/Profiler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/ProgramProfiler$PrivateInstructionCount.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/ProgramProfiler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/phone/Phone.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/phone/PhoneAlcatelOneTouchPixi.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/phone/PhoneFactory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/phone/PhoneHtcDream.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/profilers/phone/PhoneMotorolaMotoG.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/utils/Constants$SETUP_TYPE.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/utils/Constants.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/utils/Utils$ScriptRunner.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/utils/Utils.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/ac/utils/ZipHandler.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/Buffer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_context.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_device.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_execution.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_initialization.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_memory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaDr_module.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaRt_device$cudaDeviceProp.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaRt_device.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/CudaRt_memory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/Frontend.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/Result.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_197tokrqfq1i9enix9sr9ysd3/eu/project/rapid/gvirtusfe/dim3.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/BuildConfig.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDex$V14.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDex$V19.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDex$V4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDex.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDexApplication.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDexExtractor$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/MultiDexExtractor.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/ZipUtil$CentralDirectory.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/tmp/expandedArchives/classes.jar_9ul1d0gup8vqu0lgp1p0e5hae/android/support/multidex/ZipUtil.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/libs/core-1.51.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/libs/prov-1.51.0.0.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/drawable-hdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/drawable-ldpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/drawable-mdpi/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/drawable/icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-15-55-599.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-20-28-141.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-20-56-428.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-21-01-318.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-21-25-991.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-21-29-697.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-30-21-21-40-033.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-11-47-32-330.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-11-47-54-725.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-11-48-12-895.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-26-57-024.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-28-46-884.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-30-07-365.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-31-37-224.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-32-17-522.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-32-35-430.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-34-17-076.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-34-33-744.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-35-45-366.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-36-16-390.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-05-31-12-39-44-224.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-06-01-11-01-48-099.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-06-01-11-02-25-338.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-27-14-01-02-202.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-07-27-14-01-23-342.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-03-10-42-31-648.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-03-10-42-48-348.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-20-35-04-284.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-20-42-37-101.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-20-53-47-301.rawproto" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-23.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/classes/main/eu/project/rapid/common/Clone$1.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/classes/main/eu/project/rapid/common/Clone$CloneState.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/classes/main/eu/project/rapid/common/Clone$CloneType.class" />
@@ -432,23 +186,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/classes/main/eu/project/rapid/common/RapidUtils$1.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/classes/main/eu/project/rapid/common/RapidUtils.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/libs/rapidCommon.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/android_android_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/core_1_51_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/prov_1_51_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AccelerationServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/New Text Document.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/accelerationClient.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/generated/source/buildConfig/androidTest/debug/eu/project/rapid/ac/test/BuildConfig.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/generated/source/buildConfig/debug/eu/project/rapid/ac/BuildConfig.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/generated/source/buildConfig/release/eu/project/rapid/ac/BuildConfig.java" />
@@ -477,121 +214,12 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/manifests/aapt/debug/AndroidManifest.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/build/intermediates/manifests/aapt/release/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/DFE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/DSE.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/QoS.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/RapidSettingsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/Remote.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/Remoteable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/ResultContainer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/d2d/D2DClientService.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/d2d/D2DMessage.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/d2d/PhoneSpecs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/db/DBCache.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/db/DBEntry.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/DeviceProfiler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/LocationProfiler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/LogRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/NetworkBWRecord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/NetworkProfiler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/Profiler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/ProgramProfiler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/phone/Phone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/phone/PhoneAlcatelOneTouchPixi.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/phone/PhoneFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/phone/PhoneHtcDream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/profilers/phone/PhoneMotorolaMotoG.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/utils/Constants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/utils/Utils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/ac/utils/ZipHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/Buffer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_context.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_device.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_execution.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_initialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_memory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaDr_module.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaRt_device.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/CudaRt_memory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/Frontend.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/Result.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationClient/src/main/java/eu/project/rapid/gvirtusfe/dim3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/accelerationServer.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/generated/source/buildConfig/androidTest/debug/eu/project/rapid/as/test/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/generated/source/buildConfig/debug/eu/project/rapid/as/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/generated/source/r/debug/eu/project/rapid/ac/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/generated/source/r/debug/eu/project/rapid/as/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-hdpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-ldpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable-mdpi.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/drawable.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/AccelerationServer/accelerationClient/unspecified/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/AccelerationServer/accelerationClient/unspecified/aapt/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/com.android.support/multidex-instrumentation/1.0.1/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental-safeguard/debug/tag.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugAndroidTestResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/packageDebug/file-input-save-data.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/31/6356057C36CEC8C942566213B72D0B7769E5C1" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/9A/D5CB5EF6C907C4469ED32B6AAB70AAAE41AE42" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/incremental/transformJackWithJackForDebug/index" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/instant-run-support/debug/package.marker" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/multi-dex/debug/components.flags" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/multi-dex/debug/maindexlist.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/multi-dex/debug/manifest_keep.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/intermediates/symbols/debug/R.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/lint.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/AccelerationServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/AccelerationServerAutoStarter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/AppHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/DynamicObjectInputStream.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/NetworkProfilerServer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/java/eu/project/rapid/as/RapidServerActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/accelerationServer/src/main/res/values/string.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/intermediates/jack-cache/cache.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/build/tmp/jar/MANIFEST.MF" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/rapidCommon.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/src/main/java/eu/project/rapid/common/Clone.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/src/main/java/eu/project/rapid/common/Configuration.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/src/main/java/eu/project/rapid/common/RapidConstants.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/src/main/java/eu/project/rapid/common/RapidMessages.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rapidCommon/src/main/java/eu/project/rapid/common/RapidUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="AccelerationServer.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path="build/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -3496,7 +3124,7 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="ad0916036009c86b62" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build" />
   </component>
   <component name="RunManager" selected="Android App.accelerationServer">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -3883,6 +3511,14 @@
       <option name="presentableId" value="Default" />
       <updated>1494064508702</updated>
     </task>
+    <task id="LOCAL-00001" summary="First commit.">
+      <created>1502380237985</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502380237985</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3931,6 +3567,11 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="true" />
+    <MESSAGE value="First commit." />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
