@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Tue May 30 21:33:45 IST 2017
+2.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_
+5.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_
+6.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+2.set=ANDROID_RESOURCE
+4.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+7.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=8
+0.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\spongycastle\\x509\\CertPathReviewerMessages.properties
+5.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_
+4.set=JAVA_RESOURCE
+6.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_
+1.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+1.set=ANDROID_RESOURCE
+7.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\jack\\debug\\folders\\1000\\1f\\main
+2.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar
+3.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\resources-debug.ap_
+4.file=E\:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\transforms\\mergeJavaRes\\debug\\jars\\2\\1f\\main.jar\\org\\spongycastle\\x509\\CertPathReviewerMessages_de.properties
+0.set=JAVA_RESOURCE

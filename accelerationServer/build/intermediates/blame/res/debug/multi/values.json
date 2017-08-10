@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\values\\string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 49,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 46,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\values\\string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 46,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\values\\string.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 917,
+                        "endColumn": 49,
+                        "endOffset": 962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 46,
+                    "endOffset": 147
+                },
+                "from": {
+                    "file": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\values\\string.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 870,
+                        "endColumn": 46,
+                        "endOffset": 912
+                    }
+                }
+            }
+        ]
+    }
+]

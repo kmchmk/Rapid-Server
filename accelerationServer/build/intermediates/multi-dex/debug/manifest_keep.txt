@@ -1,0 +1,13 @@
+-keep class eu.project.rapid.as.RapidServerActivity { <init>(); }
+-keep class eu.project.rapid.as.AccelerationServer { <init>(); }
+-keep class eu.project.rapid.as.AccelerationServerAutoStarter { <init>(); }
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+-keep public class * extends java.lang.annotation.Annotation {
+    *;
+}
+-keep class com.android.tools.fd.** {
+    *;
+}
+-dontnote com.android.tools.fd.**,android.support.multidex.MultiDexExtractor
