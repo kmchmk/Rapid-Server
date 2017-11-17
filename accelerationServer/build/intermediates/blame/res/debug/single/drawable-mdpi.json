@@ -1,6 +1,14 @@
 [
     {
+        "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_stat_share.png",
+        "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-mdpi\\ic_action_stat_share.png"
+    },
+    {
         "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
         "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_stat_reply.png",
+        "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-mdpi\\ic_action_stat_reply.png"
     }
 ]

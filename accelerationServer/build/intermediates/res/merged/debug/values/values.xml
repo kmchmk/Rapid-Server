@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="action_reply">Reply</string>
+    <string name="action_share">Share</string>
     <string name="app_name">RAPID-Server</string>
     <string name="hello">RAPID-Server</string>
 </resources>

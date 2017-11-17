@@ -1,5 +1,13 @@
 [
     {
+        "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_stat_share.png",
+        "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-hdpi\\ic_action_stat_share.png"
+    },
+    {
+        "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_action_stat_reply.png",
+        "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-hdpi\\ic_action_stat_reply.png"
+    },
+    {
         "merged": "E:\\FYP\\AccelerationServer\\accelerationServer\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
         "source": "E:\\FYP\\AccelerationServer\\accelerationServer\\src\\main\\res\\drawable-hdpi\\icon.png"
     }

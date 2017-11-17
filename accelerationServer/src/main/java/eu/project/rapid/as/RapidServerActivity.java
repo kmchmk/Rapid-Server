@@ -28,6 +28,7 @@ public class RapidServerActivity extends Activity {
   @Override
   public void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
+    setContentView(R.layout.main);
 
     Log.d(TAG, "onCreate");
 

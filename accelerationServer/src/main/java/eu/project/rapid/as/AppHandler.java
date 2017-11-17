@@ -292,6 +292,7 @@ public class AppHandler {
    * @throws NoSuchFieldException
    */
   private Object retrieveAndExecute(DynamicObjectInputStream objIn, LinkedList<File> libraries) {
+    ConnectionNotification.notify(mContext,"Msg received!", 0);
     Long getObjectDuration = -1L;
     Long startTime = System.nanoTime();
     // Read the object in for execution
@@ -479,7 +480,7 @@ public class AppHandler {
       }
 
       objToExecute = null;
-
+      ConnectionNotification.notify(mContext,"Reply sent!", 1);
       // If this is the main clone send back also the object to execute,
       // otherwise the helper clones don't need to send it back.
       if (cloneHelperId == 0) {

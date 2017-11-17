@@ -52,6 +52,8 @@ import android.os.Handler;
 import android.os.IBinder;
 import android.util.Log;
 import android.util.SparseArray;
+import android.widget.Toast;
+
 import eu.project.rapid.ac.d2d.D2DMessage;
 import eu.project.rapid.ac.utils.Constants;
 import eu.project.rapid.ac.utils.Utils;
@@ -93,6 +95,8 @@ public class AccelerationServer extends Service {
   /** Called when the service is first created. */
   @Override
   public void onCreate() {
+
+
     super.onCreate();
     Log.d(TAG, "Server created");
 
@@ -137,7 +141,7 @@ public class AccelerationServer extends Service {
       config.parseConfigFile();
     } catch (FileNotFoundException e1) {
       Log.e(TAG, "Configuration file not found on the clone: " + Constants.CLONE_CONFIG_FILE);
-      Log.e(TAG, "Continuinig with default values.");
+      Log.e(TAG, "Continuing with default values.");
       config = new Configuration();
     }
 
@@ -422,6 +426,7 @@ public class AccelerationServer extends Service {
         while (true) {
           Socket clientSocket = serverSocket.accept();
           Log.i(TAG, "New client connected in clear");
+          ConnectionNotification.notify(context,"Connected to client. 002",0);
           new AppHandler(clientSocket, context, config);
         }
       } catch (IOException e) {
@@ -484,6 +489,7 @@ public class AccelerationServer extends Service {
           //
           Socket clientSocket = serverSocket.accept();
           Log.i(TAG, "New client connected using SSL");
+          ConnectionNotification.notify(context,"Connected to client. 001",0);
           new AppHandler(clientSocket, context, config);
         }
 
